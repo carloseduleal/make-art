@@ -51,3 +51,7 @@ Art.
 
     user@kano-os ~ $ cd ~/make-art/bin
     user@kano-os ~ $ cd ./kano-draw
+
+## PT-BR Translation (WIP)
+
+To contribute just clone the project and continue translating the files inside po/pt_BR
