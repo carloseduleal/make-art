@@ -2,7 +2,7 @@
     "worlds": [
         {
             "id": "basic",
-            "name": "Basic",
+            "name": "Básico",
             "description": "This is a first set of challenges which will make you started with Make-Art",
             "cover": "world_covers/basic",
             "world_path": "worlds/basic",
