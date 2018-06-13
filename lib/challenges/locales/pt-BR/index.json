@@ -52,7 +52,7 @@
         },
         {
             "id": "summercamp",
-            "name": "Acampmento de verão",
+            "name": "Acampamento de verão",
             "description": "Esta é a primeira parte de desafios que vão te ensinar a começar com o Make-Art",
             "cover": "world_covers/summercamp",
             "world_path": "worlds/summercamp",
@@ -63,7 +63,7 @@
         },
         {
             "id": "mischiefweek2015",
-            "name": "Mischief Week",
+            "name": "Semana de travessuras",
             "description": "Este é um mundo dedicado ao Dia das Bruxas (Halloween)",
             "cover": "world_covers/mischiefweek",
             "world_path": "worlds/mischiefweek2015",
