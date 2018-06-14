@@ -1,0 +1,23 @@
+{
+    "id": "sunnyday",
+    "title": "Um dia ensolarado",
+    "description": "Aprenda o básico ao programar um dia ensolarado.",
+    "code": "",
+    "startAt": 2,
+    "steps": [
+        {
+            "hint": "Primeiro vamos preencher o nosso quadro com um lindo céu azul - **digite** `background blue`",
+            "solution": "background blue"
+        },
+        {
+            "hint": "Agora nós precisamos utilizar tinta amarela - em uma nova linha **digite** `color yellow`",
+            "solution": "color yellow"
+        },
+        {
+            "hint": "Finalmente podemos desenhar nosso sol, usaremos o comando circle junto com o tamanho que queremos para o sol - em uma nova linha **digite** `circle 150`",
+            "solution": "circle 150"
+        }
+    ],
+    "completion_text": "Muito bem! Este é um lindo dia ensolarado, agora altere o número que está ao lado do comando circle e veja o que acontece",
+    "cover": "sunny-day.png"
+}

@@ -1,0 +1,50 @@
+{
+    "id": "smiley",
+    "title": "Seu primeiro rosto",
+    "description": "Draw a face",
+    "startAt": 2,
+    "steps": [
+        {
+            "hint": "Defina a tinta para a cor amarela **digitando** `color yellow`",
+            "solution": "color yellow"
+        },
+        {
+            "hint": "Agora precisamos de um traço preto - **digite** `stroke black, 20`",
+            "solution": "stroke black, 20"
+        },
+        {
+            "hint": "Desenhe um círculo que possua 200 de raio - **utilize** `circle 200`",
+            "solution": "circle 200"
+        },
+        {
+            "hint": "Mova o foco para esquerda e para cima **digitando** `move -80, -80`",
+            "solution": "move -80, -80"
+        },
+        {
+            "hint": "Defina a cor da tinta para a cor preta (black)",
+            "solution": "color black"
+        },
+        {
+            "hint": "Agora desenhe um círculo que possua 20 de raio",
+            "solution": "circle 20"
+        },
+        {
+            "hint": "Mova o foco para a direita **digitando** `move 160`",
+            "solution": "move 160"
+        },
+        {
+            "hint": "Desenhe mais um círculo que possua 20 de raio",
+            "solution": "circle 20"
+        },
+        {
+            "hint": "Mova o foco para o centro e para baixo - Em uma nova linha, **digite** `moveTo 250, 270`",
+            "solution": "moveTo 250, 270"
+        },
+        {
+            "hint": "Para a boca, podemos desenhar metade de um círculo - **digite** `arc 100, 1, 2`",
+            "solution": "arc 100, 1, 2"
+        }
+    ],
+    "completion_text": "Maravilha, gênio do desenho! Continue fazendo seu excelente trabalho!",
+    "cover": "smiley.png"
+}
