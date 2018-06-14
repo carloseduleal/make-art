@@ -1,50 +1,50 @@
 {
     "id": "smiley",
-    "title": "Your first face",
+    "title": "Seu primeiro rosto",
     "description": "Draw a face",
     "startAt": 2,
     "steps": [
         {
-            "hint": "Set the drawing color to yellow - **type** `color yellow`",
+            "hint": "Defina a tinta para a cor amarela **digitando** `color yellow`",
             "solution": "color yellow"
         },
         {
-            "hint": "Choose a thick black stroke - **type** `stroke black, 20`",
+            "hint": "Agora precisamos de um traço preto - **digite** `stroke black, 20`",
             "solution": "stroke black, 20"
         },
         {
-            "hint": "Draw a circle with a size of 200",
+            "hint": "Desenhe um círculo que possua 200 de raio - **utilize** `circle 200`",
             "solution": "circle 200"
         },
         {
-            "hint": "Move left and up by 80 - **type** `move -80, -80`",
+            "hint": "Mova o foco para esquerda e para cima **digitando** `move -80, -80`",
             "solution": "move -80, -80"
         },
         {
-            "hint": "Set the drawing color to black",
+            "hint": "Defina a cor da tinta para a cor preta (black)",
             "solution": "color black"
         },
         {
-            "hint": "Draw a circle with a radius of 20",
+            "hint": "Agora desenhe um círculo que possua 20 de raio",
             "solution": "circle 20"
         },
         {
-            "hint": "Move right by 160 - **type** `move 160`",
+            "hint": "Mova o foco para a direita **digitando** `move 160`",
             "solution": "move 160"
         },
         {
-            "hint": "Draw another circle with a size of 20",
+            "hint": "Desenhe mais um círculo que possua 20 de raio",
             "solution": "circle 20"
         },
         {
-            "hint": "Move to the center and down - In a new line, **type** `moveTo 250, 270`",
+            "hint": "Mova o foco para o centro e para baixo - Em uma nova linha, **digite** `moveTo 250, 270`",
             "solution": "moveTo 250, 270"
         },
         {
-            "hint": "An arc is part of a circle, we can draw one as the mouth - **type** `arc 100, 1, 2`",
+            "hint": "Para a boca, podemos desenhar metade de um círculo - **digite** `arc 100, 1, 2`",
             "solution": "arc 100, 1, 2"
         }
     ],
-    "completion_text": "Nice! Keep up the good work you face drawing genius!",
+    "completion_text": "Maravilha, gênio do desenho! Continue fazendo seu excelente trabalho!",
     "cover": "smiley.png"
 }
